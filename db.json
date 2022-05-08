@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "bikes": [
+        {
+          "id": 1,
+          "brand": "Surly",
+          "model": "Straggler",
+          "color": "Glitter Dreams",
+          "wheelSize": "700c"
+        },
+        {
+          "id": 2,
+          "brand": "Rad Power Bikes",
+          "model": "RadWagon 4",
+          "color": "Orange",
+          "wheelSize": "22 inches"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
